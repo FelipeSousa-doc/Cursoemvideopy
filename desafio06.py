@@ -7,7 +7,7 @@ print('TIPOS PRIMITIVOS')
 
 algo = input('Digite algo: ')
 
-print('O tipoo primitivo é: ',type(algo))
+print('O tipo primitivo é: ',type(algo))
 print('Só tem espaços? ',algo.isspace())
 print('É um número? ',algo.isnumeric())
 print('É alfabético? ',algo.isalpha())
